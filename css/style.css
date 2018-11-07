@@ -115,7 +115,7 @@ p{
 }
 
 .coolanimals{
-	background:url('Project2ITMD361/media/cool.png');
+	background:url('./Project2ITMD361/media/cool.png');
 	background-position: center;
 	background-size: 100%;
 }
