@@ -6,6 +6,7 @@ body{
 nav{
   font-size: large;
   text-align: center;
+  background-color: maroon;
 }
 
 nav li{
@@ -33,7 +34,7 @@ nav a.active {
 }
 
 .navigation{
-  background-color: white;
+  background-color: maroon;
   width: 100%;
   text-align: center;
   float: right;
