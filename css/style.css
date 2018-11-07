@@ -7,10 +7,6 @@ a {
   text-decoration: none;
 }
 
-section{
-  float: center;
-}
-
 nav{
   font-size: large;
   text-align: center;
@@ -24,7 +20,7 @@ nav li{
   margin-left: 30px;
   font-size: 20px;
   font-weight: 400;
-  margin-top: 15px
+  margin-top: 15px;
   font-weight: bold;
 }
 
