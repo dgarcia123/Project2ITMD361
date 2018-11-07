@@ -10,7 +10,7 @@ section{
 nav{
   font-size: large;
   text-align: center;
-  background-color: lightred;
+  background-color: lightblue;
 }
 
 nav li{
@@ -38,7 +38,7 @@ nav a.active {
 }
 
 .navigation{
-  background-color: lightred;
+  background-color: lightblue;
   width: 100%;
   text-align: center;
   float: right;
