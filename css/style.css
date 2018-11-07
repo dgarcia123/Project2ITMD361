@@ -3,6 +3,10 @@ body{
   background-color: lightgrey;
 }
 
+section{
+  float: center;
+}
+
 nav{
   font-size: large;
   text-align: center;
