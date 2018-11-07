@@ -3,6 +3,10 @@ body{
   background-color: lightgrey;
 }
 
+a {
+  text-decoration: none;
+}
+
 section{
   float: center;
 }
